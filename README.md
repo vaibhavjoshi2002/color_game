@@ -1,1 +1,1 @@
-# color_game
+# The_Great_Color_Game
